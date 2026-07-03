@@ -1,8 +1,9 @@
-# GPU Software Ray Tracing Renderer
+# GPU Software Ray Tracing Renderer (work in progress)
 
 ## Overview
 This project is a real-time GPU ray tracing system built in Unity using ShaderLab and C#. 
 It implements a custom rendering pipeline with a focus on performance, acceleration structures, and real-time visualization.
+
 
 ### Performance
 - Implements a **bottom-up binned SAH BVH (BVH2)**
@@ -20,6 +21,10 @@ It implements a custom rendering pipeline with a focus on performance, accelerat
 
 
 ## Screenshot renderer in action
+
+<img width="1677" height="1078" alt="image" src="https://github.com/user-attachments/assets/f2188d20-e4ce-4f7e-8ff0-4ec0dbea9f49" />
+
+
 <img width="1386" height="1333" alt="image" src="https://github.com/user-attachments/assets/284b122e-24a8-4214-a324-b1ae18f3024d" />
 
 
