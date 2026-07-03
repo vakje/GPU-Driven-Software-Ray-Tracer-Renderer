@@ -25,16 +25,7 @@ It implements a custom rendering pipeline with a focus on performance, accelerat
 <img width="1677" height="1078" alt="image" src="https://github.com/user-attachments/assets/f2188d20-e4ce-4f7e-8ff0-4ec0dbea9f49" />
 
 
-<img width="1386" height="1333" alt="image" src="https://github.com/user-attachments/assets/284b122e-24a8-4214-a324-b1ae18f3024d" />
-
-
-
-
-
-
-
-
 ## Demo Video 
 [Watch demo on YouTube](https://youtu.be/wT9bKHxaCXA)
 
-## FBX model is from sketfab Made by Greg McKechnie
+## Niva Lada 2121 FBX model is from sketfab Made by Greg McKechnie
