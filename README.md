@@ -33,6 +33,7 @@ version of unity that this project made on (6000.3.10f1)(URP)
 - In reality, it only imitates the effect, while the actual rendering uses pure ray tracing.
 
 ## Screenshot renderer in action
+<img width="800" height="450" alt="GraphicsPipeline" src="https://github.com/user-attachments/assets/9e137973-31f5-48e5-955d-486039752720" />
 
 <img width="1677" height="1078" alt="image" src="https://github.com/user-attachments/assets/f2188d20-e4ce-4f7e-8ff0-4ec0dbea9f49" />
 
