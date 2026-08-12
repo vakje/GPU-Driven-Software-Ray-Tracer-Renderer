@@ -14,7 +14,8 @@
             CGPROGRAM
             #pragma vertex vert
             #pragma fragment frag
-            #include "UnityCG.cginc"
+            #include "Packages/com.unity.render-pipelines.core/ShaderLibrary/Common.hlsl"
+          
 
             
             /*
@@ -76,8 +77,9 @@
             float4x4 _BehindTheQuadSpace;
             
             //main texture currently using atlases so this texture more than enough
-            sampler2D _MainTex;
-            
+            //sampler2D _MainTex;
+            TEXTURE2D(_MainTex);
+            SAMPLER(sampler_MainTex);
            
            
            
@@ -274,7 +276,7 @@
                    
                     
                     
-                    float4 col = tex2D(_MainTex, hitUV);
+                    float4 col  = _MainTex.SampleLevel(sampler_MainTex,hitUV,0);
                     return col;
                 }
                      
