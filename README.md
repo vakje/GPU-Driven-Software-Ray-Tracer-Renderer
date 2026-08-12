@@ -38,6 +38,8 @@ version of unity that this project made on (6000.3.10f1)(URP)
 <img width="1677" height="1078" alt="image" src="https://github.com/user-attachments/assets/f2188d20-e4ce-4f7e-8ff0-4ec0dbea9f49" />
 
 ## **Some objects Appear Stretched/Shrank because of incorrect imported fbx objects from blender. 
+# example of good export of the file
+<img width="1115" height="1047" alt="image" src="https://github.com/user-attachments/assets/ff4523cf-0c8e-4e8b-aa47-421db66ecfbc" />
 
 ## Demo Video 
 [Watch demo on YouTube](https://youtu.be/wT9bKHxaCXA)
